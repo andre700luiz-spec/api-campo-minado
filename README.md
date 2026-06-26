@@ -12,9 +12,9 @@ API REST desenvolvida em Node.js para uma plataforma de apostas baseada no jogo 
 * nodemon
 
 ## Integrantes
-
+* Paulo Henrique 
 * André
-
+* Natan Ulisses
 ## Instalação
 
 Clone o repositório:
